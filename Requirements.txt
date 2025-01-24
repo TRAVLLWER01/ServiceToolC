@@ -1,0 +1,7 @@
+numpy
+pandas
+requests
+flask
+django
+win32py
+cryptography
