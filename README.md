@@ -26,7 +26,7 @@ If you need any help here is a video on how to turn off Real-time-protection:
 
 * How to turn off Security settings for Microsoft Edge / There should be 3 dots top right of your browser. Locate that and now go to the Settings option down below, now click on "Privacy, search, and services", now scroll down to "Security" and find "Microsoft Defender Smartscreen" and disable it, Now you can safely download the executable.
 
-* If there's an issue with OperaGX just make sure your Real-Time-Protection is off, Follow steps above.
+* If there's an issue with OperaGX just make sure your Real-Time-Protection is off, Follow steps in "the Installing semgment.
 
 
 
